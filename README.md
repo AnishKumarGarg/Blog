@@ -59,6 +59,4 @@ Once you have created the keys.js file and added your Firebase API key to it, yo
 2. npm run dev: Runs the app in development mode.
 3. npm run build: Builds the app for production to the build folder.
 
-# Live
 
-https://live-react-blog-app.netlify.app/
